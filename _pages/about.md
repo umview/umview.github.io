@@ -14,8 +14,7 @@ __He takes pleasure in analyzing this world through control theory.__
 
 Research Projects
 =======
-### Connecting System Identification and High Performance Control System Design
-<br/>
+## Connecting System Identification and High Performance Control System Design
 <center>
     <img src="../images/step_response.jpg" alt="stepresponse">
 </center>
@@ -30,9 +29,7 @@ This study bridges the actual system and computer-based control system designs. 
 
 
 
-### Fault Tolerant Control for UAVs
-<br/>
-
+## Fault Tolerant Control for UAVs
 <center>
     <img src="../images/quadcopter_ftc.jpg" alt="quadcopter_ftc">
 </center>
@@ -47,42 +44,40 @@ Some new general problems have arisen by analyzing the principle of those vehicl
 
 # Other Projects
 
-### RflyPilot: A Compact and High Performance Flight Controller
-<br/>
+## RflyPilot: A Compact and High Performance Flight Controller
 <center>
     <img src="../images/rflypilot.jpg" alt="RflyPilot">
 </center>
 RflyPilot is a small-sized, high-performance flight controller system with hardware and corresponding
 software. It is designed to run complex flight control algorithms such as nonlinear Model Predictive Control.  [__Read More__](/posts/2022/05/blog-post-1/)
 
-### National University Students Smart Car Competition
+## National University Students Smart Car Competition
 <center>
     <img src="../images/freescale.jpg" alt="SmartCar">
 </center>
-A two-wheel smart car runs within the track.
+
+He participated in the 12th and 13th editions of the Smart Car Competition. The objective of this competition was to design the hardware and software of the vehicle and complete the designated track at the fastest speed possible. He was responsible for writing the embedded software during the competition. Through the competition, he made many like-minded friends.
 
 # Early Collection
 
-### Crystal Radio
 
-<center>
-    <img src="../images/Crystal_radio.jpg" alt="Crystal Radio">
-</center>
-This is a handcrafted DIY medium-wave radio that does not require an additional power supply input. It draws energy from radio waves and requires an approximately 10-meter-long antenna. It can receive two channels with clear reception.
 
-### High Voltage Pulse Generator 
-
-### Air Hockey Robot
+## Air Hockey Robot
 <center>
     <img src="../images/air_hockey.jpg" alt="AirHockeyRobot">
 </center>
 An air hockey robot with three stepper motors.
 
-### Nano Balance Car
+## Nano Balance Car
 
 <center>
     <img src="../images/balancercar.jpg" alt="NanoBalanceCar">
 </center>
 A nano two-wheel balance car with BLDC motor direct-drive scheme.
 
-### 
+## Crystal Radio
+
+<center>
+    <img src="../images/Crystal_radio.jpg" alt="Crystal Radio">
+</center>
+This is a handcrafted DIY medium-wave radio that does not require an additional power supply input. It draws energy from radio waves and requires an approximately 10-meter-long antenna. It can receive two channels with clear reception.
