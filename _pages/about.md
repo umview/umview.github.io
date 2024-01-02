@@ -14,7 +14,7 @@ __He takes pleasure in analyzing this world through control theory.__
 
 Research Projects
 =======
-## Connecting System Identification and High Performance Control System Design
+## Connecting System Identification and High Performance Control System Design for Quadcopters
 <center>
     <img src="../images/step_response.jpg" alt="stepresponse">
 </center>
@@ -56,7 +56,7 @@ software. It is designed to run complex flight control algorithms such as nonlin
     <img src="../images/freescale.jpg" alt="SmartCar">
 </center>
 
-He participated in the 12th and 13th editions of the Smart Car Competition. The objective of this competition was to design the hardware and software of the vehicle and complete the designated track at the fastest speed possible. He was responsible for writing the embedded software during the competition. Through the competition, he made many like-minded friends.
+He participated in the 12th and 13th National University Students Smart Car Competition. The objective of this competition was to design the hardware and software of the vehicle and complete the designated track at the fastest speed possible. He was responsible for writing the embedded software during the competition. Through the competition, he made many like-minded friends.
 
 # Early Collection
 
