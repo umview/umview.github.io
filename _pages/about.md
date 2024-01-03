@@ -38,7 +38,7 @@ This project focuses on fault-tolerant control algorithms for UAVs with rotor fa
 
 This study aims to challenge the control problems of those UAVs with rotor failure. By abandoning the yaw channel with careful controller design, the fault-tolerant ability of some kinds of UAVs is realized by falling into self-rotation around the yaw for those who suffer from the failures. 
 
-Some new general problems have arisen by analyzing the principle of those vehicles' fault-tolerant control phenomena. How to design a controller for a rigid body with some actuators in different placements, driven by the controller, the vehicle could be controlled anywhere, however, it does not seem to be a familiar vehicle for people. Moreover, how to design a new vehicle endowed with better controllability？  [__Read More__](/posts/2022/05/blog-post-1/)
+Some new general problems have arisen by analyzing the principle of those vehicles’ fault-tolerant control phenomena. How to design a controller for a rigid body with some actuators in different placements, driven by the controller, the vehicle could be controlled by position command. However, it does not seem to be a familiar vehicle for people. Moreover, how to design a new vehicle endowed with better controllability？  [__Read More__](/posts/2023/10/blog-post-2/)
 
 
 
@@ -49,7 +49,7 @@ Some new general problems have arisen by analyzing the principle of those vehicl
     <img src="../images/rflypilot.jpg" alt="RflyPilot">
 </center>
 RflyPilot is a small-sized, high-performance flight controller system with hardware and corresponding
-software. It is designed to run complex flight control algorithms such as nonlinear Model Predictive Control.  [__Read More__](/posts/2022/05/blog-post-1/)
+software. It is designed to run complex flight control algorithms such as nonlinear Model Predictive Control.  [__Read More__](/posts/2024/01/blog-post-3/)
 
 ## National University Students Smart Car Competition
 <center>
