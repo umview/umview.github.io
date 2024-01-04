@@ -36,7 +36,7 @@ This study bridges the actual system and computer-based control system designs. 
 
 This project focuses on fault-tolerant control algorithms for UAVs with rotor failures, such as multicopter, bi-copter, helicopter, or other kinds of UAVs. Actuator failure is a severe fault, and it can easily result in an aircraft crash. 
 
-This study aims to challenge the control problems of those UAVs with rotor failure. By abandoning the yaw channel with careful controller design, the fault-tolerant ability of some kinds of UAVs is realized by falling into self-rotation around the yaw for those who suffer from the failures. 
+This study aims to challenge the control problems of those UAVs with rotor failure. By abandoning the yaw channel with careful controller design, the fault-tolerant ability of some kinds of UAVs is achieved by falling into self-rotation around the yaw for those who suffer from the failures. 
 
 Some new general problems have arisen by analyzing the principle of those vehicles’ fault-tolerant control phenomena. How to design a controller for a rigid body with some actuators in different placements, driven by the controller, the vehicle could be controlled by position command. However, it does not seem to be a familiar vehicle for people. Moreover, how to design a new vehicle endowed with better controllability？  [__Read More__](/posts/2023/10/blog-post-2/)
 
@@ -49,11 +49,11 @@ Some new general problems have arisen by analyzing the principle of those vehicl
     <img src="../images/rflypilot.jpg" alt="RflyPilot">
 </center>
 RflyPilot is a small-sized, high-performance flight controller system with hardware and corresponding
-software. It is designed to run complex flight control algorithms such as nonlinear Model Predictive Control.  [__Read More__](/posts/2024/01/blog-post-3/)
+software. It is designed to run complex flight control algorithms such as nonlinear Model Predictive Control.  For more details, please visit [__https://rflypilot.github.io__](https://rflypilot.github.io)__[in Chinese]__
 
 ## National University Students Smart Car Competition
 <center>
-    <img src="../images/freescale.jpg" alt="SmartCar">
+    <img src="../images/freescale2.jpg" alt="SmartCar">
 </center>
 
 He participated in the 12th and 13th National University Students Smart Car Competition. The objective of this competition was to design the hardware and software of the vehicle and complete the designated track at the fastest speed possible. He was responsible for writing the embedded software during the competition. Through the competition, he made many like-minded friends.
@@ -64,7 +64,7 @@ He participated in the 12th and 13th National University Students Smart Car Comp
 
 ## Air Hockey Robot
 <center>
-    <img src="../images/air_hockey.jpg" alt="AirHockeyRobot">
+    <img src="../images/air_hockey2.jpg" alt="AirHockeyRobot">
 </center>
 An air hockey robot with three stepper motors.
 
@@ -78,6 +78,6 @@ A nano two-wheel balance car with BLDC motor direct-drive scheme.
 ## Crystal Radio
 
 <center>
-    <img src="../images/Crystal_radio.jpg" alt="Crystal Radio">
+    <img src="../images/Crystal_radio2.jpg" alt="Crystal Radio">
 </center>
 This is a handcrafted DIY medium-wave radio that does not require an additional power supply input. It draws energy from radio waves and requires an approximately 10-meter-long antenna. It can receive two channels with clear reception.
