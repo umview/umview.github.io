@@ -20,7 +20,7 @@ News
 
 Research Projects
 =======
-## Connecting System Identification and High Performance Control System Design for Quadcopters
+## Connecting System Identification and High Performance Control System Design for Quadcopters (2022)
 <center>
     <img src="../images/step_response.jpg" alt="stepresponse">
 </center>
@@ -35,7 +35,7 @@ This study bridges the actual system and computer-based control system designs. 
 
 
 
-## Fault Tolerant Control for UAVs
+## Fault Tolerant Control for UAVs (2023)
 <center>
     <img src="../images/quadcopter_ftc.jpg" alt="quadcopter_ftc">
 </center>
@@ -46,20 +46,20 @@ This study aims to challenge the control problems of those UAVs with rotor failu
 
 Some new general problems have arisen by analyzing the principle of those vehicles’ fault-tolerant control phenomena. How to design a controller for a rigid body with some actuators in different placements, driven by the controller, the vehicle could be controlled by position command. However, it does not seem to be a familiar vehicle for people. Moreover, how to design a new vehicle endowed with better controllability？  [__Read More__](/posts/2023/10/blog-post-2/)
 
-## Reliable Flight Platform for Aerial Manipulator
+## Reliable Flight Platform for Aerial Manipulator (2024)
 This project involves a novel configuration for a multicopter used as an aerial manipulation platform. It aims to maximize the reliability of the flight platform, particularly in the event of rotor failure or external disturbances.  [__Read More__](/posts/2024/04/blog-post-4/)
 
 
 # Other Projects
 
-## RflyPilot: A Compact and High Performance Flight Controller
+## RflyPilot: A Compact and High Performance Flight Controller (2023)
 <center>
     <img src="../images/rflypilot.jpg" alt="RflyPilot">
 </center>
 RflyPilot is a small-sized, high-performance flight controller system with hardware and corresponding
 software. It is designed to run complex flight control algorithms such as nonlinear Model Predictive Control.  For more details, please visit [__https://rflypilot.github.io__](https://rflypilot.github.io)__[in Chinese]__
 
-## National University Students Smart Car Competition
+## National University Students Smart Car Competition (2017 & 2018)
 <center>
     <img src="../images/freescale2.jpg" alt="SmartCar">
 </center>
@@ -83,9 +83,23 @@ An air hockey robot with three stepper motors.
 </center>
 A nano two-wheel balance car with BLDC motor direct-drive scheme.
 
+## UMVIEW : A Time Machine from 2016 (2016)
+
+<center>
+    <img src="../images/umview.jpg" alt="UMVIEW.COM">
+</center>
+
+[__UMVIEW.COM__](https://www.umview.com), established by Haixin, is a collaborative blog that feels like a time machine as you review it. Its predecessor was youthope.com(2015). Haixin is [nash.zhao](https://www.umview.com/author/1/) in the blog.
+
 ## Crystal Radio (2011)
 
 <center>
     <img src="../images/Crystal_radio2.jpg" alt="Crystal Radio">
 </center>
 This is a handcrafted DIY medium-wave radio that does not require an additional power supply input. It draws energy from radio waves and requires an approximately 10-meter-long antenna. It can receive two channels with clear reception.
+
+## High Voltage Pulse Generator (Up to 800V DC, 2009)
+
+A high voltage generator (pulse form) is designed by Haixin. It contains multiple capacitors and a step-up transformer, and generates pulsating signals through a mechanical relay. It can be used to ignite flammable materials or to make electric mosquito swatters.
+
+__Unfortunately, some of Haixin's creations are not listed on this website, mainly due to a lack of camera equipment. Additionally, due to limited materials, the original creations have to be dismantled in order to make new ones. :-(__
