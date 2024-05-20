@@ -46,6 +46,8 @@ This study aims to challenge the control problems of those UAVs with rotor failu
 
 Some new general problems have arisen by analyzing the principle of those vehicles’ fault-tolerant control phenomena. How to design a controller for a rigid body with some actuators in different placements, driven by the controller, the vehicle could be controlled by position command. However, it does not seem to be a familiar vehicle for people. Moreover, how to design a new vehicle endowed with better controllability？  [__Read More__](/posts/2023/10/blog-post-2/)
 
+## Reliable Flight Platform for Aerial Manipulator
+This project involves a novel configuration for a multicopter used as an aerial manipulation platform. It aims to maximize the reliability of the flight platform, particularly in the event of rotor failure or external disturbances.  [__Read More__](/posts/2024/04/blog-post-4/)
 
 
 # Other Projects
@@ -68,20 +70,20 @@ He participated in the 12th and 13th National University Students Smart Car Comp
 
 
 
-## Air Hockey Robot
+## Air Hockey Robot (2021)
 <center>
     <img src="../images/air_hockey2.jpg" alt="AirHockeyRobot">
 </center>
 An air hockey robot with three stepper motors.
 
-## Nano Balance Car
+## Nano Balance Car (2021)
 
 <center>
     <img src="../images/balancercar.jpg" alt="NanoBalanceCar">
 </center>
 A nano two-wheel balance car with BLDC motor direct-drive scheme.
 
-## Crystal Radio
+## Crystal Radio (2011)
 
 <center>
     <img src="../images/Crystal_radio2.jpg" alt="Crystal Radio">
