@@ -12,6 +12,12 @@ __Haixin Zhao is a research assistant at Reliable Flight Control Group at Beihan
 
 __He takes pleasure in analyzing this world through control theory.__
 
+
+News
+=======
+ - May 16, 2024. Haixin presented an oral titled "Relaxed Hover Solution Based Control for a Bi-copter with Rotor and Servo Stuck Failure" at the International Conference on Robotics and Automation (ICRA 2024) in Yokohama, Japan.
+
+
 Research Projects
 =======
 ## Connecting System Identification and High Performance Control System Design for Quadcopters
