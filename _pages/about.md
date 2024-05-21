@@ -66,7 +66,7 @@ software. It is designed to run complex flight control algorithms such as nonlin
 
 He participated in the 12th and 13th National University Students Smart Car Competition. The objective of this competition was to design the hardware and software of the vehicle and complete the designated track at the fastest speed possible. He was responsible for writing the embedded software during the competition. Through the competition, he made many like-minded friends.
 
-# Early Collection
+# Early Collections
 
 
 
