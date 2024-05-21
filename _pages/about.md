@@ -61,7 +61,7 @@ software. It is designed to run complex flight control algorithms such as nonlin
 
 ## National University Students Smart Car Competition (2017 & 2018)
 <center>
-    <img src="../images/freescale2.jpg" alt="SmartCar">
+    <img src="../images/video/smartcar.gif" alt="SmartCar">
 </center>
 
 He participated in the 12th and 13th National University Students Smart Car Competition. The objective of this competition was to design the hardware and software of the vehicle and complete the designated track at the fastest speed possible. He was responsible for writing the embedded software during the competition. Through the competition, he made many like-minded friends.
@@ -74,7 +74,7 @@ He participated in the 12th and 13th National University Students Smart Car Comp
 <center>
     <img src="../images/air_hockey2.jpg" alt="AirHockeyRobot">
 </center>
-An air hockey robot with three stepper motors supported by [Shenzhen InnoX](https://innoxsz.com/)
+An air hockey robot with three stepper motors supported by [Shenzhen InnoX](https://innoxsz.com/).
 
 ## Nano Balance Car (2021)
 
