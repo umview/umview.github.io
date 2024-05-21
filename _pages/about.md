@@ -74,7 +74,7 @@ He participated in the 12th and 13th National University Students Smart Car Comp
 <center>
     <img src="../images/air_hockey2.jpg" alt="AirHockeyRobot">
 </center>
-An air hockey robot with three stepper motors.
+An air hockey robot with three stepper motors supported by [Shenzhen InnoX](https://innoxsz.com/)
 
 ## Nano Balance Car (2021)
 
