@@ -15,8 +15,7 @@ __He takes pleasure in analyzing this world through control theory.__
 
 News
 =======
- - May 16, 2024. Haixin presented an oral titled "Relaxed Hover Solution Based Control for a Bi-copter with Rotor and Servo Stuck Failure" at the International Conference on Robotics and Automation (ICRA 2024) in Yokohama, Japan.
-
+ - May 16, 2024. Haixin presented an oral titled "[Relaxed Hover Solution Based Control for a Bi-copter with Rotor and Servo Stuck Failure](/files/4006.pdf)" at the International Conference on Robotics and Automation (ICRA 2024) in Yokohama, Japan.
 
 Research Projects
 =======
@@ -42,7 +41,7 @@ This study bridges the actual system and computer-based control system designs. 
 
 This project focuses on fault-tolerant control algorithms for UAVs with rotor failures, such as multicopter, bi-copter, helicopter, or other kinds of UAVs. Actuator failure is a severe fault, and it can easily result in an aircraft crash. 
 
-This study aims to challenge the control problems of those UAVs with rotor failure. By abandoning the yaw channel with careful controller design, the fault-tolerant ability of some kinds of UAVs is achieved by falling into self-rotation around the yaw for those who suffer from the failures. 
+This study aims to challenge the control problems of those UAVs with rotor failure. By abandoning the yaw channel with careful controller design, the fault-tolerant ability of some kinds of UAVs is achieved by falling into spinning around the yaw for those who suffer from the failures. 
 
 Some new general problems have arisen by analyzing the principle of those vehicles’ fault-tolerant control phenomena. How to design a controller for a rigid body with some actuators in different placements, driven by the controller, the vehicle could be controlled by position command. However, it does not seem to be a familiar vehicle for people. Moreover, how to design a new vehicle endowed with better controllability？  [__Read More__](/posts/2023/10/blog-post-2/)
 
