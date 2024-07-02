@@ -58,6 +58,18 @@ This project involves a novel configuration for a multicopter used as an aerial 
 RflyPilot is a small-sized, high-performance flight controller system with hardware and corresponding
 software. It is designed to run complex flight control algorithms such as nonlinear Model Predictive Control.  For more details, please visit [__https://rflypilot.github.io__](https://rflypilot.github.io)__[in Chinese]__
 
+## Air Hockey Robot (2021)
+<center>
+    <img src="../images/air_hockey2.jpg" alt="AirHockeyRobot">
+</center>
+An air hockey robot with three stepper motors supported by [Shenzhen InnoX](https://innoxsz.com/).
+
+## Nano Balance Car (2021)
+<center>
+    <img src="../images/balancercar.jpg" alt="NanoBalanceCar">
+</center>
+A nano two-wheel balance car with a BLDC motor direct-drive scheme. This project focuses on providing a low-cost, ESP32-based, multi-sensor system for learning and designing control systems. It includes control algorithms, BLDC motor driver, state estimation, and calibration. Haixin conceived this project in 2019 and designed it in 2021.
+
 ## The Gimbal for Phones (2020)
 <center>
     <img src="../images/video/gimbal_demo.gif" alt="Gimbal">
@@ -71,18 +83,6 @@ This gimbal is used for phone stabilization. Haixin designs the control algorith
 </center>
 
 He participated in the 12th and 13th National University Students Smart Car Competition. The objective of this competition was to design the hardware and software of the vehicle and complete the designated track at the fastest speed possible. He was responsible for writing the embedded software during the competition. Through the competition, he made many like-minded friends.
-
-## Air Hockey Robot (2021)
-<center>
-    <img src="../images/air_hockey2.jpg" alt="AirHockeyRobot">
-</center>
-An air hockey robot with three stepper motors supported by [Shenzhen InnoX](https://innoxsz.com/).
-
-## Nano Balance Car (2021)
-<center>
-    <img src="../images/balancercar.jpg" alt="NanoBalanceCar">
-</center>
-A nano two-wheel balance car with BLDC motor direct-drive scheme.
 
 # Early Collections
 
