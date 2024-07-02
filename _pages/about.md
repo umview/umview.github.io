@@ -58,6 +58,13 @@ This project involves a novel configuration for a multicopter used as an aerial 
 RflyPilot is a small-sized, high-performance flight controller system with hardware and corresponding
 software. It is designed to run complex flight control algorithms such as nonlinear Model Predictive Control.  For more details, please visit [__https://rflypilot.github.io__](https://rflypilot.github.io)__[in Chinese]__
 
+## The Gimbal for Phones (2020)
+<center>
+    <img src="../images/video/gimbal_demo.gif" alt="Gimbal">
+</center>
+
+This gimbal is used for phone stabilization. Haixin designs the control algorithm for this gimbal. It contains three BLDC motors and encoders, which are used for angular motion. An IMU is also attached to the phone to estimate its attitude. By focusing on this project, Haixin has gained knowledge of BLDC motors and their control, adding an important piece to his network of knowledge.
+
 ## National University Students Smart Car Competition (2017 & 2018)
 <center>
     <img src="../images/video/smartcar.gif" alt="SmartCar">
