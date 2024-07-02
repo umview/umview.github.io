@@ -72,10 +72,6 @@ This gimbal is used for phone stabilization. Haixin designs the control algorith
 
 He participated in the 12th and 13th National University Students Smart Car Competition. The objective of this competition was to design the hardware and software of the vehicle and complete the designated track at the fastest speed possible. He was responsible for writing the embedded software during the competition. Through the competition, he made many like-minded friends.
 
-# Early Collections
-
-
-
 ## Air Hockey Robot (2021)
 <center>
     <img src="../images/air_hockey2.jpg" alt="AirHockeyRobot">
@@ -83,11 +79,12 @@ He participated in the 12th and 13th National University Students Smart Car Comp
 An air hockey robot with three stepper motors supported by [Shenzhen InnoX](https://innoxsz.com/).
 
 ## Nano Balance Car (2021)
-
 <center>
     <img src="../images/balancercar.jpg" alt="NanoBalanceCar">
 </center>
 A nano two-wheel balance car with BLDC motor direct-drive scheme.
+
+# Early Collections
 
 ## UMVIEW : A Time Machine from 2016 (2016)
 
