@@ -29,7 +29,7 @@ This work aims to model the angular velocity channels of the quadcopters via sys
 
 Most textbooks present the system model directly to design a control system with a SISO linear system, such as the state space model or transfer function. However, during the actual experiments, the system models are sometimes unavailable. 
 
-This study bridges the actual system and computer-based control system designs. It provides a feasible scheme for acquiring the SISO linear system. According to the coherence function, it unlocks the technique for control system design with computers. Now, we can touch the real world and feel it. [__Read More__](/posts/2022/05/blog-post-1/)
+This study bridges the actual system and computer-based control system designs. It provides a feasible scheme for acquiring the SISO linear system. Now, we can touch the real world and feel it. [__Read More__](/posts/2022/05/blog-post-1/)
 
 
 
