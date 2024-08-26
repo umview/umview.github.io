@@ -46,8 +46,10 @@ This study aims to challenge the control problems of those UAVs with rotor failu
 Some new general problems have arisen by analyzing the principle of those vehicles’ fault-tolerant control phenomena. How to design a controller for a rigid body with some actuators in different placements, driven by the controller, the vehicle could be controlled by position command. However, it does not seem to be a familiar vehicle for people. Moreover, how to design a new vehicle endowed with better controllability？  [__Read More__](/posts/2023/10/blog-post-2/)
 
 ## Reliable Flight Platform for Aerial Manipulator (2024)
-This project involves a novel configuration for a multicopter used as an aerial manipulation platform. It aims to maximize the reliability of the flight platform, particularly in the event of rotor failure or external disturbances.  [__Read More__](/posts/2024/04/blog-post-4/)
-
+This project involves a novel configuration for a multicopter used as an aerial manipulation platform. It aims to maximize the reliability of the flight platform and maintain accurate position control, particularly in the event of rotor failure or external disturbances.  [__Read More__](/posts/2024/04/blog-post-4/)
+<center>
+    <img src="../images/aerialmanipulation.jpg" alt="AerialManipulation">
+</center>
 
 # Other Projects
 
