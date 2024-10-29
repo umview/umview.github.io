@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Biography
+=======
+
 __Haixin Zhao is a research assistant in the Reliable Flight Control Group at Beihang University.   His research interests lie in the areas of Aerial Robotics and Motion Control.   He received bachelor degree in 2020 from the School of Mechanical Engineering at Hebei University of Technology.   He worked as a control engineer on the gimbal for UAV before 2022.   Besides his research, he also follows many other areas, such as signal processing, sensors and actuators, and mechanical and circuit design.__
 
 __He takes pleasure in analyzing this world through control theory.__
@@ -19,20 +22,14 @@ News
 
 Research Projects
 =======
-## Connecting System Identification and High Performance Control System Design for Quadcopters (2022)
+
+## Precise Autolanding of a Unmanned Parafoil (2024)
+
+## Reliable Flight Platform for Aerial Manipulator (2024)
+Many aerial manipulations require close interaction with the environment. The environments these flight platforms encounter are more complex than those in traditional applications like aerial photography. Uncertainties in the environment may cause interference with the flight platform, potentially affecting mission completion. Therefore, the reliability of the flight platform is crucial for successful manipulation. This project introduces a novel configuration for a multicopter used as an aerial manipulation platform, aiming to enhance platform reliability and maintain precise position control, especially in the event of rotor failure or external disturbances. [__Read More__](/posts/2024/04/blog-post-4/)
 <center>
-    <img src="../images/step_response.jpg" alt="stepresponse">
+    <img src="../images/aerialmanipulation.jpg" alt="AerialManipulation">
 </center>
-
-
-This work aims to model the angular velocity channels of the quadcopters via system identification. Based on the identification results, a new control scheme is proposed to improve the performance of a closed-loop system.
-
-Most textbooks present the system model directly to design a control system with a SISO linear system, such as the state space model or transfer function. However, during the actual experiments, the system models are sometimes unavailable. 
-
-This study bridges the actual system and computer-based control system designs. It provides a feasible scheme for acquiring the SISO linear system. Now, we can touch the real world and feel it. [__Read More__](/posts/2022/05/blog-post-1/)
-
-
-
 
 ## Fault Tolerant Control for UAVs (2023)
 <center>
@@ -45,11 +42,19 @@ This study aims to challenge the control problems of those UAVs with rotor failu
 
 Some new general problems have arisen by analyzing the principle of those vehicles’ fault-tolerant control phenomena. How to design a controller for a rigid body with some actuators in different placements, driven by the controller, the vehicle could be controlled by position command. However, it does not seem to be a familiar vehicle for people. Moreover, how to design a new vehicle endowed with better controllability？  [__Read More__](/posts/2023/10/blog-post-2/)
 
-## Reliable Flight Platform for Aerial Manipulator (2024)
-Many aerial manipulations require close interaction with the environment. The environments these flight platforms encounter are more complex than those in traditional applications like aerial photography. Uncertainties in the environment may cause interference with the flight platform, potentially affecting mission completion. Therefore, the reliability of the flight platform is crucial for successful manipulation. This project introduces a novel configuration for a multicopter used as an aerial manipulation platform, aiming to enhance platform reliability and maintain precise position control, especially in the event of rotor failure or external disturbances. [__Read More__](/posts/2024/04/blog-post-4/)
+
+## Connecting System Identification and High Performance Control System Design for Quadcopters (2022)
 <center>
-    <img src="../images/aerialmanipulation.jpg" alt="AerialManipulation">
+    <img src="../images/step_response.jpg" alt="stepresponse">
 </center>
+
+
+This work aims to model the angular velocity channels of the quadcopters via system identification. Based on the identification results, a new control scheme is proposed to improve the performance of a closed-loop system.
+
+Most textbooks present the system model directly to design a control system with a SISO linear system, such as the state space model or transfer function. However, during the actual experiments, the system models are sometimes unavailable. 
+
+This study bridges the actual system and computer-based control system designs. It provides a feasible scheme for acquiring the SISO linear system. Now, we can touch the real world and feel it. [__Read More__](/posts/2022/05/blog-post-1/)
+
 
 # Other Projects
 
