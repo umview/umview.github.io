@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Biography
-=======
 
 __Haixin Zhao is a research assistant in the Reliable Flight Control Group at Beihang University.   His research interests lie in the areas of Aerial Robotics and Motion Control.   He received bachelor degree in 2020 from the School of Mechanical Engineering at Hebei University of Technology.   He worked as a control engineer on the gimbal for UAV before 2022.   Besides his research, he also follows many other areas, such as signal processing, sensors and actuators, and mechanical and circuit design.__
 
