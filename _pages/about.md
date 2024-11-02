@@ -21,7 +21,12 @@ News
 Research Projects
 =======
 
-## Precise Autolanding of a Unmanned Parafoil (2024)
+## Precise Autolanding of an Unmanned Parafoil (2024)
+In air-dropping tasks, unmanned parafoils are an excellent choice for low-cost scenarios. This study focuses on the precise autolanding of an unmanned parafoil with a 1.5-meter wingspan. A dynamics model is established based on parameter identification results obtained from flight experiments. To achieve precise landing, the original problem of path following is reformulated as a circular control problem, and a novel landing strategy is proposed to enhance the likelihood of successful landings. As a result, the unmanned parafoil is capable of landing within a 5-meter radius.
+
+<center>
+    <img src="../images/parafoil.jpg" alt="parafoil">
+</center>
 
 ## Reliable Flight Platform for Aerial Manipulator (2024)
 Many aerial manipulations require close interaction with the environment. The environments these flight platforms encounter are more complex than those in traditional applications like aerial photography. Uncertainties in the environment may cause interference with the flight platform, potentially affecting mission completion. Therefore, the reliability of the flight platform is crucial for successful manipulation. This project introduces a novel configuration for a multicopter used as an aerial manipulation platform, aiming to enhance platform reliability and maintain precise position control, especially in the event of rotor failure or external disturbances. [__Read More__](/posts/2024/04/blog-post-4/)
