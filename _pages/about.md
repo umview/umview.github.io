@@ -66,8 +66,8 @@ This study bridges the actual system and computer-based control system designs. 
     <img src="../images/rflypilot.jpg" alt="RflyPilot">
 </center>
 RflyPilot is a small-sized, high-performance flight controller system with hardware and corresponding
-software. It is designed to run complex flight control algorithms such as nonlinear Model Predictive Control. 
-<!-- For more details, please visit [__https://rflypilot.github.io__](https://rflypilot.github.io)__[in Chinese]__ -->
+software. It is designed to run complex flight control algorithms such as nonlinear Model Predictive Control.
+For more details, please visit [__https://rflypilot.github.io__](https://rflypilot.github.io)__[in Chinese]__
 
 ## Air Hockey Robot (2021)
 <center>
