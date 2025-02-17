@@ -25,7 +25,7 @@ Research Projects
 In air-dropping tasks, unmanned parafoils are an excellent choice for low-cost scenarios. This study focuses on the precise autolanding of an unmanned parafoil with a 1.5-meter wingspan. A dynamics model is established based on parameter identification results obtained from flight experiments. To achieve precise landing, the original problem of path following is reformulated as a circular control problem, and a novel landing strategy is proposed to enhance the likelihood of successful landings. As a result, the unmanned parafoil is capable of landing within a 5-meter radius.
 
 <center>
-    <img src="../images/parafoil.jpg" alt="parafoil">
+    <img src="../images/parafoil_exp.png" alt="parafoil">
 </center>
 
 ## Reliable Flight Platform for Aerial Manipulator (2024)
