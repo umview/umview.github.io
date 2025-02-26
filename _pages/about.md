@@ -95,7 +95,7 @@ This gimbal is used for phone stabilization. Haixin designs the control algorith
 
 He participated in the 12th and 13th National University Students Smart Car Competition. The objective of this competition was to design the hardware and software of the vehicle and complete the designated track at the fastest speed possible. He was responsible for writing the embedded software during the competition. Through the competition, he made many like-minded friends.
 
-# Early Collections
+# Early Portfolio
 
 ## UMVIEW : A Time Machine from 2016 (2016)
 
@@ -120,4 +120,4 @@ This is a handcrafted DIY medium-wave radio that does not require an additional 
 
 A high voltage generator (pulse form) is designed by Haixin. It contains multiple capacitors and a step-up transformer, and generates pulsating signals through a mechanical relay. It can be used to ignite flammable materials or to make electric mosquito swatters.
 
-__Unfortunately, some of Haixin's creations are not listed on this website, mainly due to a lack of camera equipment. Additionally, due to limited materials, the original creations have to be dismantled in order to make new ones. :-(__
+__Unfortunately, some of Haixin's works are not listed on this website, mainly due to a lack of camera equipment. Additionally, due to limited materials, the original creations have to be dismantled in order to make new ones. :-(__
