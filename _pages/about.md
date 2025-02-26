@@ -103,7 +103,7 @@ He participated in the 12th and 13th National University Students Smart Car Comp
     <img src="../images/umview.jpg" alt="UMVIEW.COM">
 </center>
 
-[__UMVIEW.COM__](https://www.umview.com), established by Haixin, is a collaborative blog that feels like a time machine as you review it. Its predecessor was youthope.com(2015). Haixin is [nash.zhao](https://www.umview.com/author/1/) in the blog.
+[__UMVIEW.COM__](https://www.umview.com), established by Haixin, is a collaborative blog, it could be considered as a time machine as you review it. Its predecessor was youthope.com(2015). Haixin is [nash.zhao](https://www.umview.com/author/1/) in the blog.
 
 ## Crystal Radio (2011)
 
